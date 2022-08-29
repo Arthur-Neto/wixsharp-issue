@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<WixLocalization Culture="pt-BR" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+	<String Id="ExitDialogTitle" Overridable="yes">Finished [ProductName]</String>
+	<String Id="ExitDialogDescription" Overridable="yes">Finish [ProductName]</String>
+</WixLocalization>
